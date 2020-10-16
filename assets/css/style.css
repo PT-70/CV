@@ -11,11 +11,11 @@
 }
 
 .bg-color-personal-info {
-    background-color: #f2f2f2;
+    background-color: silver;
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: grey;
 }
 
 .bg-color-contact {
@@ -23,15 +23,15 @@
 }
 
 .ui-menu-color-home {
-    background-color: #e67e22;
+    background-color: silver;
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
+    background-color: grey;
 }
 
 .ui-menu-color-contact {
-    background-color: #3498db;
+    background-color: #8f8f8f;
 }
 
 .ui-menu-color-download {
