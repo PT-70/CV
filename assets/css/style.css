@@ -18,9 +18,6 @@
     background-color: grey;
 }
 
-.bg-color-contact {
-    background-color: #fff;
-}
 
 .ui-menu-color-home {
     background-color: silver;
@@ -30,9 +27,6 @@
     background-color: grey;
 }
 
-.ui-menu-color-contact {
-    background-color: #8f8f8f;
-}
 
 .ui-menu-color-download {
     background-color: #525252;
@@ -339,27 +333,6 @@ footer {
     margin-bottom: 30px;
 }
 
-/*-------------------------------Contact Form */
-
-.contact-heading {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
-}
-
-.center-form {
-    padding-top: 10px;
-    margin: 0 auto;
-    max-width: 70%;
-}
-
-button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #fafafa;
-    background-color: #e84610;
-}
 
 /*-------------------------------Media Queries */
 
